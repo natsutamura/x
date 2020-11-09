@@ -1,0 +1,729 @@
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: teletype 1.3.0\n"
+"POT-Creation-Date: 2020-03-11 11:56+0800\n"
+"PO-Revision-Date: 2020-03-11 11:56+0800\n"
+"Last-Translator: dinevthemes <post@dinevthemes.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:19
+msgid "It looks like nothing was found at this location. Maybe try search?"
+msgstr ""
+
+#: ../comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:55
+msgid "Primary"
+msgstr ""
+
+#: ../functions.php:56 ../inc/customizer/customizer-options.php:441
+#: ../inc/customizer/customizer-library/custom-controls/helper/ckecksorter.php:23
+msgid "Gallery Section"
+msgstr ""
+
+#: ../functions.php:57
+msgid "Social Media"
+msgstr "Соцсети"
+
+#: ../functions.php:137
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../functions.php:147
+msgid "Posts Sidebar"
+msgstr ""
+
+#: ../functions.php:158
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: ../functions.php:168
+msgid "Front Page Section"
+msgstr ""
+
+#: ../functions.php:170
+msgid ""
+"Three-column section of the template Front Page. The best place for Teletype "
+"theme widgets."
+msgstr ""
+
+#: ../header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: ../single.php:25
+msgid "Next: %title"
+msgstr ""
+
+#: ../single.php:26
+msgid "Prev: %title"
+msgstr ""
+
+#: ../inc/back-compat.php:22 ../inc/back-compat.php:30
+#: ../inc/back-compat.php:41
+#, php-format
+msgid ""
+"Teletype requires at least WordPress version 4.2. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+"Для работы темы Teletype необходим WordPress версии 4.2 и позднее. Вы "
+"используете сейчас версию %s. Пожалуйста, обновитесь и попробуйте снова"
+
+#: ../inc/template-tags.php:88
+#, php-format
+msgid "<span class=\"screen-reader-text\">on</span>%s"
+msgstr ""
+
+#: ../inc/template-tags.php:137 ../inc/template-tags.php:143
+#: ../template-parts/post-meta-info.php:7
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:139
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:145
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:151
+msgid "Leave a comment"
+msgstr ""
+
+#: ../inc/template-tags.php:151
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:151
+msgid "% Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:158 ../template-parts/content-page.php:30
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../inc/template-tags.php:226
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:321
+#, php-format
+msgid "%s Theme "
+msgstr ""
+
+#: ../inc/template-tags.php:322
+#, php-format
+msgid "powered by %s"
+msgstr ""
+
+#: ../inc/woocommerce-compatibility.php:29
+msgid "Header Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:30
+msgid "Hide Site Title"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:39
+msgid "Hide Tagline"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:54
+msgid "Logo Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:56
+msgid "Example section description."
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:61
+msgid "Upload image"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:74
+msgid "Frontpage Sorting"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:76
+msgid ""
+"The visibility and order for sections of the Front Page. Please note that "
+"this works only if you have assigned a static page for front page displays."
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:100
+msgid "Headline Area"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:101
+msgid ""
+"You can use the wrap tag (e.g. <h1>Ttile</h1><p>Description</p>) or insert "
+"shortcode."
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:107
+msgid "Frontpage Headline"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:115
+msgid "Posts Page Headline"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:123
+msgid "Headline Height"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:136
+msgid "Headline Overlay"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:152
+msgid "Colors"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:158
+msgid "Primary Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:166
+msgid "Secondary Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:174
+msgid "Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:182
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:190
+msgid "Menu Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:198
+msgid "SubMenu Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:206
+msgid "Footer Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:214
+msgid "Footer Background"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:226
+msgid "Typography"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:227
+msgid "By default, the theme uses Source Code Pro font for all elements"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:233
+msgid "Apply default font"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:234
+msgid "Uncheck box to change fonts to the selected"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:242
+msgid "Primary Font"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:251
+msgid "Secondary Font"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:260
+msgid "Headline Font Size"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:261
+msgid ""
+"Note this: If it is custom text in the Headline section, it must be enclosed "
+"in the <h1> tag"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:276
+msgid "Sidebar Options"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:277
+msgid ""
+"The sidebar is on the right by default. If there are no widgets in the "
+"sidebar, it is not displayed."
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:283
+msgid "Left sidebar for pages"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:291
+msgid "Left sidebar for posts"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:302
+msgid "Footer Copyright"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:308
+msgid "Copyright text"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:319
+msgid "Frontpage Sections"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:320
+msgid "As the Front page should be selected static page. "
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:329
+#: ../inc/customizer/customizer-library/custom-controls/helper/ckecksorter.php:11
+msgid "Page Content"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:336
+#: ../inc/customizer/customizer-options.php:361
+#: ../inc/customizer/customizer-options.php:403
+#: ../inc/customizer/customizer-options.php:449
+msgid "Enter Section Title"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:344
+#: ../inc/customizer/customizer-options.php:369
+#: ../inc/customizer/customizer-options.php:411
+#: ../inc/customizer/customizer-options.php:456
+msgid "Enter Section SubTitle"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:354
+#: ../inc/customizer/customizer-library/custom-controls/helper/ckecksorter.php:17
+msgid "Widgets Section"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:376
+msgid "without columns"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:377
+msgid "two columns"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:378
+msgid "tree columns"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:379
+msgid "four columns"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:384
+msgid "Layout Mode"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:396
+msgid "Recent Posts Section"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:429
+#: ../inc/customizer/customizer-options.php:474
+msgid "Number of posts"
+msgstr ""
+
+#: ../inc/customizer/customizer-options.php:442
+msgid ""
+"Before you start here, you must have created 6 or more posts of the image "
+"format."
+msgstr ""
+
+#: ../inc/customizer/customizer-library/custom-controls/helper/ckecksorter.php:29
+msgid "Recent Posts"
+msgstr ""
+
+#: ../inc/customizer/customizer-library/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../inc/customizer/customizer-library/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: ../inc/customizer/customizer-library/extensions/fonts.php:125
+#: ../template-parts/section-gallery.php:30
+msgid "All"
+msgstr ""
+
+#: ../inc/customizer/customizer-library/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: ../inc/customizer/customizer-library/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../inc/customizer/customizer-library/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: ../inc/customizer/customizer-library/extensions/fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: ../inc/customizer/customizer-library/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: ../inc/customizer/customizer-library/extensions/fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: ../inc/customizer/customizer-library/extensions/fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: ../inc/customizer/customizer-library/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: ../inc/customizer/customizer-library/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+#: ../inc/customizer-upsell/class-customize.php:76
+msgid "Teletype Plus"
+msgstr ""
+
+#: ../inc/customizer-upsell/class-customize.php:77
+msgid "Get more customization options and one-to-one support"
+msgstr ""
+
+#: ../inc/customizer-upsell/class-customize.php:78
+msgid "Get Plus"
+msgstr ""
+
+#: ../inc/welcome/welcome-screen.php:74
+msgid "Teletype Dashboard"
+msgstr ""
+
+#: ../inc/welcome/welcome-screen.php:74
+msgid "Theme Info"
+msgstr ""
+
+#: ../inc/welcome/welcome-screen.php:103
+#, php-format
+msgid ""
+"Welcome and thanks for choosing %1$s! To help you get starter with the "
+"theme, please visit our <a href=\"%2$s\">welcome page</a>."
+msgstr ""
+
+#: ../inc/welcome/welcome-screen.php:130
+msgid "Getting Started"
+msgstr ""
+
+#: ../inc/welcome/welcome-screen.php:134
+msgid "Support"
+msgstr ""
+
+#: ../inc/welcome/welcome-screen.php:138
+msgid "Contribute"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-contribute.php:3
+#: ../inc/welcome/partials/theme-dashboard-support.php:7
+msgid "review"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-contribute.php:7
+msgid ""
+"Do you like the theme? I would love your help. There are ways in which you "
+"can help:"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-contribute.php:11
+msgid "Rate"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-contribute.php:16
+#, php-format
+msgid ""
+"I will appreciate if you find a few minutes and leave a five stars %s. It is "
+"important for me, as we see it as a feedback and support from you."
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-contribute.php:22
+msgid "Share"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-contribute.php:24
+msgid ""
+"Do you have Instagram, Facebook, Twitter or any other social profile? It "
+"would be great if you could share Teletype with anyone you know."
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-contribute.php:28
+msgid "Write"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-contribute.php:29
+msgid ""
+"Do you like to blog? We would be very happy if you could write a blog post "
+"about WordPress blog themes and mention Teletype theme."
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-getting-started.php:20
+msgid "Recommended plugins"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-getting-started.php:26
+msgid "Contact Form by WPForms"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-getting-started.php:34
+msgid "Front Page Setup"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-getting-started.php:36
+msgid ""
+"If you want to make a static page with sortable sections as the main page of "
+"your site , then first of all create a new page with the default template by "
+"going to Pages > Add New. Then in the same way create a blank page for the "
+"Posts Page."
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-getting-started.php:37
+msgid ""
+"Now you can go to Appearance > Customize > Static Front Page and choose your "
+"new created Pages as your Front Page and Posts Page."
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-getting-started.php:38
+msgid ""
+"Next you can set the visibility and order of the Front-page sections in the "
+"Customizer section called Frontpage Sorting."
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-getting-started.php:43
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-getting-started.php:45
+msgid ""
+"You can use of the Customizer to provide you with the theme options. Press "
+"the button below to open the Customizer and start making changes."
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-getting-started.php:47
+msgid "Customize Theme"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-page.php:13
+msgid "Welcome to Teletype!"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-page.php:14
+msgid "Version:"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-sidebar.php:17
+msgid "Demo Website"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-sidebar.php:19
+msgid ""
+"You can look live theme on the demo website. There you will also find a "
+"description of the main features of the theme."
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-sidebar.php:24
+msgid "View Demo"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-sidebar.php:30
+msgid "Get Much More"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-sidebar.php:32
+msgid ""
+"Get more features and one-on-one support with the premium version of this "
+"theme."
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-sidebar.php:37
+msgid "Get Premium"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-support.php:4
+msgid "forum"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-support.php:5
+msgid "Teletype forum"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-support.php:6
+msgid "documentation"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-support.php:11
+msgid "Looking for help?"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-support.php:13
+msgid "Is here collected some resources that you may find helpful:"
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-support.php:19
+#, php-format
+msgid ""
+"If you have a general question related to WordPress, please post it on "
+"WordPress.org %s."
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-support.php:26
+#, php-format
+msgid "If you have a theme specific question, please post it on %s."
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-support.php:33
+#, php-format
+msgid "Before panic, please visit our %s pages."
+msgstr ""
+
+#: ../inc/welcome/partials/theme-dashboard-support.php:41
+#, php-format
+msgid "If this theme is useful to you then leave your %s, please. Thank you!"
+msgstr ""
+
+#: ../inc/widgets/icontext.php:14
+msgid "Icon and Text"
+msgstr ""
+
+#: ../inc/widgets/icontext.php:17
+msgid "Show icon, text and link. To create services or features block."
+msgstr ""
+
+#: ../inc/widgets/icontext.php:93
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/icontext.php:96
+msgid "Icon:"
+msgstr ""
+
+#: ../inc/widgets/icontext.php:98
+msgid "View Icons"
+msgstr ""
+
+#: ../inc/widgets/icontext.php:98
+msgid "Remove"
+msgstr ""
+
+#: ../inc/widgets/icontext.php:102
+msgid "URL:"
+msgstr ""
+
+#: ../inc/widgets/icontext.php:105
+msgid "Button Text:"
+msgstr ""
+
+#: ../template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: ../template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../template-parts/content-none.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../template-parts/content-page.php:19
+#: ../template-parts/content-single.php:23
+msgid "Pages:"
+msgstr ""
+
+#: ../template-parts/content-search.php:16
+msgid "Post"
+msgstr ""
+
+#: ../template-parts/content-search.php:21
+msgid "Page"
+msgstr ""
+
+#: ../template-parts/content-single.php:18
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../template-parts/content.php:37
+msgid "Read more"
+msgstr ""
+
+#: ../template-parts/headline.php:102
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../template-parts/headline.php:113
+msgid "Error 404"
+msgstr ""
+
+#: ../template-parts/headline.php:115
+msgid "Oops! That page cant be found."
+msgstr ""
+
+#: ../template-parts/post-meta-cat.php:1
+#: ../template-parts/post-meta-info.php:3
+msgid "By "
+msgstr ""
+
+#: ../template-parts/post-meta-cat.php:8
+#: ../template-parts/post-meta-info.php:10
+msgid "In "
+msgstr ""
+
+#: ../template-parts/section-home-content.php:25
+msgid "Edit"
+msgstr ""
